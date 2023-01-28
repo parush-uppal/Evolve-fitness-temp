@@ -1,0 +1,82 @@
+#tree{
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+}
+#price1{
+    
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: 'Paytone One', sans-serif;
+    background-color: rgba(22, 22, 22, 0.712);
+    color:white;
+
+}
+#price2{
+    
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: 'Paytone One', sans-serif;
+    
+    color:white;
+
+}
+#success{
+    background-image: url("healthify.png");
+}
+
+table{
+    color: white;
+    margin-left: 109px;
+    margin-top: 100px;
+    font-size: 1.5rem;
+    border-spacing: 50px;
+}
+td{
+    width: 200px;
+}
+#mk2{
+    width: 100%;
+    height: 658px;
+    background-color: black;
+    color: white;
+    
+}
+#our{
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    font-size: 3rem;
+    font-weight: 900;
+    font-family: 'Paytone One', sans-serif;
+    background-color: black;
+    color:white;
+
+}
+#our2{
+    margin-top: 0px;
+    background-color:black;
+}
+.yo{
+    background-color: black;
+}
+#coupon{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+}
+
+  
+  
+  
+ 

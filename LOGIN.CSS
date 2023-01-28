@@ -1,0 +1,81 @@
+body{
+    background-image: url(nr.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat;
+}
+.win{
+    width: 400px;
+    height: 350px;
+    background-color:black;
+    border: 2px gray solid;
+    margin: auto;
+    margin-top: 100px;;
+    box-shadow: 0px 0px 15px 5px gray;
+    padding: 10px;
+    margin-left: 871px;
+}  
+#close
+{
+    width: 30px;
+    height: 30px;;
+     float: right;
+  
+    background-size: contain;
+}
+#picc{
+    width: 80px; height: 80px;
+    background-image: url(loginicon.jpeg);
+    background-size: contain;
+    margin: auto;
+    margin-top: 30px;;
+}
+.btn
+{
+    width: 100px;; padding: 10px; background-color:gray;;;; color: white;
+    margin: 10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 20px 20px 20px 20px;
+    border-bottom: 2px black solid;;
+   
+}    
+.btn:hover{
+    background: linear-gradient(red,black);
+    cursor: pointer;
+    box-shadow: 2px 2px 5px grey;
+   
+}
+input[type="text"],input[type="password"]
+{
+    width:90%;
+    line-height: 30px;;
+    font-size: 15px;;
+    color:white;
+    outline: none;;
+   
+}
+label{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:red;
+    margin-top: 5px;;
+   
+   
+}
+input[type="text"]:focus{
+    background-color: grey;
+    border: 2px grey solid;;
+    
+}
+input[type="password"]:focus{
+    background-color: grey;
+    border: 2px grey solid;;
+   
+}
+.txt
+{
+    background-image: url(usersmall.jpeg);
+    background-size: 9%;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 30px;;
+}
